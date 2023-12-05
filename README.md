@@ -71,3 +71,11 @@ console.log("hola mundo")
 <!-- Acceso a paginas web -->
 ## Acceso a paginas web:
 [periodico el pais](https://www.elpais.es)
+
+---
+
+![visual studio logo](https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest?cb=20210722231358&path-prefix=es "visual studio logo")
+
+* [x] Tarea1
+* [ ] Tarea2
+* [ ] Tarea3
