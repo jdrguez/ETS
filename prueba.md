@@ -76,3 +76,7 @@ console.log("hola mundo")
 
 > No dejes que el miedo se interponga en tu camino
 
+<a href="https://www.youtube.com/watch?v=x90jqjcrM9k">Video de youtube
+
+
+[![Campo Alt](https://i.ytimg.com/vi/ceyhBOIbNuE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4hYxc7pRAgHYZamcTDNp6ULZAzw)](https://www.youtube.com/watch?v=x90jqjcrM9k=musica)
