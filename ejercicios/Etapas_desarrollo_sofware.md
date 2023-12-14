@@ -88,4 +88,4 @@ Aquí se precisa los aspectos esenciales que determinan la funcionalidad y la di
 
 ---
 ## Video explicativo
-[![Campo Alt](https://i.ytimg.com/an_webp/2C8ff-QW2_U/mqdefault_6s.webp?du=3000&sqp=CKye7KsG&rs=AOn4CLC4YEIbhBgFjK4YtTi2eX1cjyxnYQ)](hhttps://www.youtube.com/watch?v=s5ABwHaN7as)
+[![Campo Alt](https://i.ytimg.com/an_webp/2C8ff-QW2_U/mqdefault_6s.webp?du=3000&sqp=CKye7KsG&rs=AOn4CLC4YEIbhBgFjK4YtTi2eX1cjyxnYQ)](https://www.youtube.com/watch?v=s5ABwHaN7as)
