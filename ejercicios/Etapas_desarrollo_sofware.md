@@ -35,18 +35,24 @@ Esta fase es crucial porque, antes de llegar al usuario, hay que comprobar que e
 Estas pruebas se concentran en una parte de toda la aplicación en total aislamiento. Por lo general, es una sola clase o función. Idealmente, la unidad no tiene efectos secundarios. Para que pueda aislarse y probarse lo más fácilmente posible.
 ### Integración
 Estas pruebas ayudan a los equipos a identificar debilidades y defectos del sistema en etapas tempranas y genera confianza en el producto.
-
-![imagen4](https://www.um.es/documents/1083928/17665461/pruebas-evaluacion-1.png/740633af-b403-4f16-87ab-6bc7f7f4bc6d?t=1589364889869)
+<p align="center">
+  <img width="350" height="250" src="https://www.um.es/documents/1083928/17665461/pruebas-evaluacion-1.png/740633af-b403-4f16-87ab-6bc7f7f4bc6d?t=1589364889869">
+</p>
 
 ---
 ## Explotación
 
 Se trata de instalar nuestros programa en los sistemas elegidos. Esta operación conlleva otras que podrían dar lugar a otras donde es posible que se necesiten modernizar los sitemas, corregir alguna cosa en ellos, eliminar una verisón previa más antigua del programa. 
-
+<p align="center">
+  <img width="350" height="250" src="https://ungoti.com/es/wp-content/uploads/sites/3/Especialistas-en-SharePoint.png">
+</p
 
 ---
 ## Mantenimiento
 Aunque se crea que al poner en práctica el software se acaba el trabajo, esto no es así. Y se que es esencial mantener, optimizar y mejorar el programa para eliminar los errores detectador, adpatar nuevas necesidades o añadir nuevas funcionalidades. Esto significa que se requiere hacer actualizaciones frecuentes.
+<p align="center">
+  <img width="350" height="280" src="https://ungoti.com/es/wp-content/uploads/sites/3/Personalizar.png">
+</p>
 
 
 ---
@@ -75,7 +81,11 @@ Se explica de forma dinámica como el producto creado puede resolver el problema
 Aquí se precisa los aspectos esenciales que determinan la funcionalidad y la disponibilidad de la aplicación. 
 
 
-
+<p align="center">
+  <img width="350" height="280" src="https://software-b.com/sb25/images/recursos/soporte-proceso.jpg">
+</p>
 
 
 ---
+## Video explicativo
+[![Campo Alt](https://i.ytimg.com/an_webp/2C8ff-QW2_U/mqdefault_6s.webp?du=3000&sqp=CKye7KsG&rs=AOn4CLC4YEIbhBgFjK4YtTi2eX1cjyxnYQ)](hhttps://www.youtube.com/watch?v=s5ABwHaN7as)
