@@ -35,5 +35,12 @@ Responder al cambio de manera rápida y eficaz. Agile descarta la idea del cambi
 - Completa el trabajo a un ritmo constante
 - Garantiza la colaboración regular entre los equipos de proyecto y de negocio a lo largo de la duración del proyecto
 - Reflexiona periódicamente sobre cómo se puede ajustar el comportamiento del equipo para mejorar su eficacia.
-- Por último, busca constantemente la excelenc
+- Por último, busca constantemente la excelencia.
+
+
+## Cual usar 
+El método tradicional al ser el más antiguo y el más general, es mucho más barato que el Ágil, pues este último usa muchos más recursos y necesita muchas más experiencia de uso.
+
+Por lo general, las empresar prefieren el método tradicional, más concretamente, el Waterfall o cascada. El más antiguo pero más utilizado
+
 </div>
