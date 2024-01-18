@@ -109,3 +109,4 @@
 **Flujos Alternativos:**
 - 4a. El bibliotecario intenta eliminar un libro que está actualmente en préstamo: El sistema muestra un mensaje indicando que el libro no se puede eliminar porque está en préstamo.
 
+[Caso resuelto](biblioteca/biblioteca.drawio.png)
