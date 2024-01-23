@@ -76,5 +76,5 @@ Documenta el Markdown, y súbelo a tu cuenta de github. El repositorio tendrá e
 
 
 # Caso resuelto
-[Caso]()
+[Caso](tienda_online.drawio.png)
 
