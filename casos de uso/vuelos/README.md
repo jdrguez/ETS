@@ -8,7 +8,7 @@ Crea un diagrama de casos de uso para un sistema de reservas de vuelos. Los acto
 
 ## Diagrama
 
-
+![Diagrama](vuelos/vuelos.drawio.png)
 ### Especificación del caso
 
 ### Agente de Reservas:
