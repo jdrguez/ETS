@@ -55,5 +55,5 @@ Documéntalo en Markdown, y súbelo a tu cuenta de githb, con el nombre Red
 ---
 
 # Caso resuelto
-[Caso](tienda_online.drawio.png)
+[Caso](red_social.drawio.png)
 
