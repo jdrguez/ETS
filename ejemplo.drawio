@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T17:06:18.880Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="djnfhdhe5J__yO965LaC" version="22.1.22" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T17:10:25.371Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="7jW2cxFEqZxSd3K_CKrS" version="22.1.22" type="github">
   <diagram name="Página-1" id="1qWvVfx8WxdVZQZR35Iz">
     <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,10 +59,10 @@
         <mxCell id="97puo30hhXIsJmYNwi94-18" value="4. Los detalles del autor se verifican con la base de datos de credenciales." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="530" width="420" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="97puo30hhXIsJmYNwi94-19" value="&amp;nbsp;5. Una nueva cuenta de blog es creada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="560" width="240" height="30" as="geometry" />
+        <mxCell id="97puo30hhXIsJmYNwi94-19" value="5. Una nueva cuenta de blog es creada." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="97puo30hhXIsJmYNwi94-20" value="6. El resumen de la nueva cuenta se envia por correo al actor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="97puo30hhXIsJmYNwi94-20" value="6. El resumen de la nueva cuenta se envia por correo al actor." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="590" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
