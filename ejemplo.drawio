@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T17:10:25.371Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="7jW2cxFEqZxSd3K_CKrS" version="22.1.22" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T17:13:38.644Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="HpS76TBoyw2b7u0cmT3z" version="22.1.22" type="github">
   <diagram name="Página-1" id="1qWvVfx8WxdVZQZR35Iz">
     <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,23 @@
         </mxCell>
         <mxCell id="97puo30hhXIsJmYNwi94-20" value="6. El resumen de la nueva cuenta se envia por correo al actor." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="590" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="20" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="265" y="690" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="265" y="740" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="97puo30hhXIsJmYNwi94-21" target="97puo30hhXIsJmYNwi94-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-26" value="&lt;div&gt;Create&lt;/div&gt;&lt;div&gt;a new&lt;/div&gt;&lt;div&gt;acount&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="97puo30hhXIsJmYNwi94-25">
+          <mxGeometry x="0.0784" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
