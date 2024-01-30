@@ -1,9 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T16:57:21.017Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="22.1.22" etag="YKEqvMqCa-AXmCwbQ31W" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T16:59:45.943Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vwJ4Um0C1KlABs_o0tPV" version="22.1.22" type="github">
   <diagram name="Página-1" id="1qWvVfx8WxdVZQZR35Iz">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="97puo30hhXIsJmYNwi94-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="97puo30hhXIsJmYNwi94-2" target="97puo30hhXIsJmYNwi94-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-8" value="Extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="97puo30hhXIsJmYNwi94-7">
+          <mxGeometry x="0.0253" y="4" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-2" value="Record Application Failure" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="97puo30hhXIsJmYNwi94-3" target="97puo30hhXIsJmYNwi94-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-6" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="97puo30hhXIsJmYNwi94-5">
+          <mxGeometry x="0.0481" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-3" value="Check Identity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-4" value="Create a New Blog Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="97puo30hhXIsJmYNwi94-9" target="97puo30hhXIsJmYNwi94-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-9" value="Create a New Regular Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="97puo30hhXIsJmYNwi94-12" target="97puo30hhXIsJmYNwi94-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97puo30hhXIsJmYNwi94-12" value="Crear a New Editorial Blog Account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
