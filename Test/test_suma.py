@@ -1,5 +1,5 @@
 import pytest 
-from sumar import sum_number, is_greater_than, max_value
+from sumar import sum_number, is_greater_than, max_value, sub_number, Empleado, mul_number, div_number
 
 def test_sum_number():
     assert sum_number(2, 2) == 4
@@ -32,3 +32,21 @@ def test_sum_number_params(input_x, input_y, expected):
 
 def test_max_params(input_x, expected):
     assert max_value(input_x) == expected
+
+def test_sub_number():
+    assert sub_number(3, 2) == 1
+
+
+def test_aumentar_salario():
+    empleado = Empleado('Carlos', 'Perez', 3000)
+    empleado.aumentar_salario()
+
+    assert empleado.salario == 4000
+
+
+def test_mul_number():
+    assert mul_number(2, 1) == 2
+
+def test_div_number():
+    assert div_number(3,1) == 3.0
+
